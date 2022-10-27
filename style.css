@@ -1,0 +1,97 @@
+body{
+    margin:0;
+    color: #40514E;
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  a{
+    color:#CFE8A9;
+    font-family: 'Montserrat', sans-serif;
+    Margin: 10px 20px;
+    text-decoration:none;
+  }
+  a:hover{
+    color:#11999E
+  }
+  #about{
+    padding-top: 100px;
+    text-align: center;
+    line-height: 2
+  }
+  h1,h2{
+    font-family: 'Montserrat', sans-serif;
+    color:#66BFBF
+  }
+  
+  
+  .header{
+    size:70%;
+    background-color: #EAF6F6;
+    margin: 0;
+    padding-top: 100px;
+    text-align:center;
+    position:relative;
+  }
+  hr{
+    border: dotted 6px;
+    color: #EAF6F6;
+    border-bottom: none;
+    width:10%
+  }
+  .header_text{
+    font-family: 'Sacramento', cursive;
+    color: #66BFBF;
+    font-size: 3em;
+    margin-left:0
+  
+  }
+  
+  
+  .my_image{
+    margin: auto;
+    width: 200px;
+    height: 200px
+  }
+  
+  
+  .mountain{
+    position: relative;
+  margin-top: 50px;
+  margin-bottom: 0px;
+  margin-right: 50%;
+  margin-left: 25%;
+  }
+  .top-cloud{
+    position:absolute;
+    margin-left: auto;
+    width: 150px;
+    right: 0
+  }
+  .bottom-cloud{
+    position: absolute;
+    width:150px;
+    margin-right: auto;
+    left: 0;
+    margin-bottom:40px;
+    top:40px;
+  }
+  main{
+    background-color: #FFFDE3
+  }
+  
+  #services{
+    text-align: center
+  }
+  
+  #contact{
+    text-align: center;
+    padding: 100px;
+  }
+  
+  footer{
+    background-color: #66BFBF;
+    text-align: center;
+    padding: 20px
+  }
+  
+  
